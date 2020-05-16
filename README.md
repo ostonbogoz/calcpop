@@ -21,14 +21,14 @@
 
 <h1></h1>
 
-<h2>INSTALAÇÕES</h2>
+<h2>EXECUTÁVEIS</h2>
 <h3>Windows</h3>
-<h5>Arquivo Executável: (calcpop.exe)</h5>
+<h5>Arquivo: (calcpop.exe)</h5>
 
 <h1></h1>
 
 <h3>Linux (Debian / Ubuntu / Mint / Derivados)</h3>
-<h5>Arquivo Executável: (calcpop)</h5>
+<h5>Arquivo: (calcpop)</h5>
 <h5>Pacote DEB: (calcpop.1.0.0.deb)</h5>
 <h5>Instalação Do Pacote DEB: <code>sudo dpkg --install calcpop.1.0.0.deb</code></h5>
 
