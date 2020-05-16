@@ -15,9 +15,9 @@
 
 <h5>Execultável Windows: <a href="https://github.com/ostonprata/calcpop/releases/download/1.0.0/calcpop.exe">(calcpop.exe)</a></h5>
 <h5>Execultável Linux: <a href="https://github.com/ostonprata/calcpop/releases/download/1.0.0/calcpop">(calcpop)</a></h5>
-<h5>Pacote .DEB: <a href="https://github.com/ostonprata/calcpop/releases/download/1.0.0/calcpop.1.0.0.deb">(calcpop.1.0.0.deb)</a></h5>
-<h5>Source Code: <a href="https://github.com/ostonprata/calcpop/archive/1.0.0.zip">(calcpop.1.0.0.zip)</a></h5>
-<h5>Source Code: <a href="https://github.com/ostonprata/calcpop/archive/1.0.0.tar.gz">(calcpop.1.0.0.tar.gz)</a></h5>
+<h5>Pacote .deb: <a href="https://github.com/ostonprata/calcpop/releases/download/1.0.0/calcpop.1.0.0.deb">(calcpop.1.0.0.deb)</a></h5>
+<h5>Source Code .zip: <a href="https://github.com/ostonprata/calcpop/archive/1.0.0.zip">(calcpop.1.0.0.zip)</a></h5>
+<h5>Source Code .tar.gz: <a href="https://github.com/ostonprata/calcpop/archive/1.0.0.tar.gz">(calcpop.1.0.0.tar.gz)</a></h5>
 
 <h1></h1>
 
